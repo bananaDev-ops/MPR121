@@ -1,0 +1,81 @@
+                  BANANA PUBLIC LICENSE
+                       Version 1.0, 2026
+
+           "A wholesome, fruit-based copyleft license."
+
+Copyright (C) 2026  BananaDev
+
+Everyone is permitted to copy and distribute verbatim or modified copies
+of this license document, but changing it is not allowed.
+
+-------------------------------------------------------------------------
+                            PREAMBLE
+-------------------------------------------------------------------------
+
+This software (the "Banana Driver") is free to use, study, share and
+modify. It is provided in the spirit of the GNU General Public License:
+freedom is preserved by requiring that derived works stay open. On top of
+that, this license adds one harmless, joyful obligation involving bananas.
+
+By using this software you agree to ALL terms below.
+
+-------------------------------------------------------------------------
+                         1. GRANT OF RIGHTS
+-------------------------------------------------------------------------
+
+You are granted the right to use, copy, modify and distribute this
+software and its derivative works, free of monetary charge, provided you
+comply with Section 2 (Banana Obligation) and Section 3 (Copyleft).
+
+-------------------------------------------------------------------------
+                       2. THE BANANA OBLIGATION
+-------------------------------------------------------------------------
+
+Before (or upon) using this software, you must fulfill the Banana
+Obligation that matches your purpose:
+
+  (a) COMMERCIAL USE
+      Anyone using this software with commercial intent (selling it,
+      using it in a paid product/service, or otherwise to make money)
+      MUST open an Issue in the project's repository containing a
+      photograph of SEVEN (7) real bananas. Each of the seven bananas
+      must be clearly and individually NUMBERED 1 through 7 using paper
+      notes or stickers visible in the photo. Only after this Issue is
+      posted is commercial use permitted.
+
+  (b) EDUCATIONAL OR PRIVATE USE
+      Anyone using this software for educational, academic, hobby or
+      otherwise private (non-commercial) purposes MUST, instead of the
+      seven bananas, DRAW a picture of a single banana (one banana).
+      The drawing may be shared as an Issue, in their fork's README, or
+      kept with the project files. Stick figures of bananas are welcome.
+
+These obligations are mandatory but deliberately silly. They exist to
+make people smile and to acknowledge the banana-powered origins of this
+software.
+
+-------------------------------------------------------------------------
+                           3. COPYLEFT
+-------------------------------------------------------------------------
+
+If you distribute this software or any derivative work, you must:
+  - keep this license intact and include it,
+  - release your derivative work under this same Banana Public License,
+  - make the corresponding source code available.
+
+You may not relicense this software under different terms.
+
+-------------------------------------------------------------------------
+                       4. NO WARRANTY
+-------------------------------------------------------------------------
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+No bananas were harmed in the writing of this license. Probably.
+
+                          === END OF TERMS ===
